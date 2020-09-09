@@ -15,7 +15,7 @@ interests:
 social:
   - icon: google
     icon_pack: fab
-    link: andresbenitezespinosa@gmail.com
+    link: mailto:andresbenitezespinosa@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/andresbesp
