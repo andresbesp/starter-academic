@@ -1,5 +1,5 @@
 ---
-title: Andrés Benítez
+title: Andrés Benítez Espinosa
 role: Politólogo e investigador
 avatar_filename: avatar.jpg
 organizations:
