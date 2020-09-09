@@ -1,5 +1,5 @@
 ---
-title: Andrés Benítez Espinosa
+title: Andrés Benítez 
 role: Politólogo e investigador
 avatar_filename: avatar.jpg
 organizations:
@@ -26,13 +26,13 @@ education:
   courses:
     - course: Doctorando en Ciencias Sociales
       institution: Universidad Pablo de Olavide
-      year: ""
+      year: "2018-actualidad"
     - course: Máster Universitario en Sociedad, Administración y Política
       institution: Universidad Pablo de Olavide
-      year: 2017
+      year: 2016-2017
     - course: Grado en Ciencias Políticas y de la Administración
       institution: Universidad Pablo de Olavide
-      year: 2015
+      year: 2011-2015
 email: andresbenitezespinosa@gmail.com
 user_groups:
   - ""
