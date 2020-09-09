@@ -4,7 +4,6 @@ role: Politólogo e investigador
 avatar_filename: andrés-benítez.jpg
 organizations:
   - name: Instituto Nacional de Administración Pública
-  - name: INAP
 superuser: true
 authors:
   - admin
@@ -15,7 +14,7 @@ interests:
   - Administración pública
 social:
   - icon: google
-    icon_pack: fas
+    icon_pack: fab
     link: andresbenitezespinosa@gmail.com
   - icon: twitter
     icon_pack: fab
