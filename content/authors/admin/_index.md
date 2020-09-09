@@ -3,29 +3,26 @@ title: Andrés Benítez
 role: Politólogo e investigador
 avatar_filename: andrés-benítez.jpg
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Instituto Nacional de Administración Pública
+  - name: INAP
 superuser: true
 authors:
   - admin
 bio: ""
 interests:
   - Élites políticas
-  - comunicación política
-  - administración pública
+  - Comunicación política
+  - Administración pública
 social:
-  - icon: envelope
+  - icon: google
     icon_pack: fas
-    link: "#contact"
+    link: andresbenitezespinosa@gmail.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://twitter.com/andresbesp
+  - icon: linkedin
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.linkedin.com/in/benitezespinosa/
 education:
   courses:
     - course: PhD in Artificial Intelligence
