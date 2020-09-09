@@ -3,7 +3,7 @@ title: Andrés Benítez
 role: Politólogo e investigador
 avatar_filename: andrés-benítez.jpg
 organizations:
-  - name: Instituto Nacional de Administración Pública
+  - name: INAP
 superuser: true
 authors:
   - admin
@@ -24,19 +24,18 @@ social:
     link: https://www.linkedin.com/in/benitezespinosa/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Doctorando en Ciencias Sociales
+      institution: Universidad Pablo de Olavide
+      year: 2018
+    - course: Máster Universitario en Sociedad, Administración y Política
+      institution: Universidad Pablo de Olavide
+      year: 2017
+    - course: Grado en Ciencias Políticas y de la Administración
+      institution: Universidad Pablo de Olavide
+      year: 2015
+email: andresbenitezespinosa@gmail.com
 user_groups:
-  - Researchers
-  - Visitors
+  - ""
 ---
 Soy graduado en Ciencias Políticas y de la Administración por la Universidad Pablo de Olavide (2015). Máster en Liderazgo y Comunicación por la Universidad de Málaga (2016) y Máster Universitario en Sociedad, Administración y Política por la Universidad Pablo de Olavide (2017). Investigador en el Grupo Democracias y Autonomías: Sociedad y Política.
 
