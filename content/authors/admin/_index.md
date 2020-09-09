@@ -1,5 +1,5 @@
 ---
-title: Andrés Benítez 
+title: Andrés Benítez
 role: Politólogo e investigador
 avatar_filename: avatar.jpg
 organizations:
@@ -13,8 +13,8 @@ interests:
   - Comunicación política
   - Administración pública
 social:
-  - icon: google
-    icon_pack: fab
+  - icon: envelope
+    icon_pack: fas
     link: mailto:andresbenitezespinosa@gmail.com
   - icon: twitter
     icon_pack: fab
@@ -22,11 +22,14 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/benitezespinosa/
+  - link: https://public.tableau.com/profile/andr.s.ben.tez#!/
+    icon_pack: fas
+    icon: globe
 education:
   courses:
     - course: Doctorando en Ciencias Sociales
       institution: Universidad Pablo de Olavide
-      year: "2018-actualidad"
+      year: 2018-actualidad
     - course: Máster Universitario en Sociedad, Administración y Política
       institution: Universidad Pablo de Olavide
       year: 2016-2017
