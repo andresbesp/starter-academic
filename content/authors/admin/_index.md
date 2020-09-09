@@ -26,7 +26,7 @@ education:
   courses:
     - course: Doctorando en Ciencias Sociales
       institution: Universidad Pablo de Olavide
-      year: 2018
+      year: ""
     - course: Máster Universitario en Sociedad, Administración y Política
       institution: Universidad Pablo de Olavide
       year: 2017
