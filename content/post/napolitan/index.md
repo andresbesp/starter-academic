@@ -1,9 +1,18 @@
 ---
-title: "El proyecto SICE Granada, nominado a los Napolitan Victory Awards"
-author: "Andrés Benítez"
+summary: En la categoría "Programa de Educación Política"
+draft: false
+author: Andrés Benítez
+title: El proyecto SICE Granada, nominado a los Napolitan Victory Awards
 date: 2019-03-15
-categories: ["SICE"]
-tags: ["SICE", "Premios"]
+featured: false
+tags:
+  - SICE
+  - Premios
+categories:
+  - SICE
+image:
+  filename: featured.png
+  preview_only: false
 ---
 
 
