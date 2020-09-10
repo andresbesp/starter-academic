@@ -22,10 +22,10 @@ date_format = "Jan 2006"
   company = "Instituto Nacional de Administración Pública"
   company_url = "https://www.inap.es/"
   location = "Madrid"
-  date_start = "2019-09-01"
-  date_end = 
+  date_start = "2019-09"
+  date_end = ""
   description = ""
-  Responsabilidades
+  Responsabilidades:
   
   * Comunicación pública e institucional
   * Análisis de datos
@@ -37,10 +37,10 @@ date_format = "Jan 2006"
   company = "Universidad Pablo de Olavide"
   company_url = "https://www.upo.es/investiga/dasp/es/inicio/"
   location = "Sevilla"
-  date_start = "2018-01-01"
-  date_end = "2019-09-01"
+  date_start = "2018-01"
+  date_end = "2019-09"
   description = ""
-  Responsabilidades
+  Responsabilidades:
   
   * Investigador predoctoral en Grupo “Democracia y Autonomías: Sociedad y Política”
   * Miembro del equipo de trabajo en el proyecto “Ciudadanía y Parlamentarios en tiempos de Crisis”
