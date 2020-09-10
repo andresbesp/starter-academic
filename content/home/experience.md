@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Madrid"
   date_start = ""
   date_end = ""
-  description = ""
+  description = """
   Responsabilidades:
   
   * Comunicación pública e institucional
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "Sevilla"
   date_start = ""
   date_end = ""
-  description = ""
+  description = """
   Responsabilidades:
   
   * Investigador predoctoral en Grupo “Democracia y Autonomías: Sociedad y Política”
