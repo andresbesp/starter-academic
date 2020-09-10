@@ -2,7 +2,7 @@
 title: La renta media de los vecinos de Alcalá de Guadaíra
 subtitle: Artículo publicado en "La Voz de Alcalá"
 date: 2020-09-10T21:42:55.286Z
-summary: Vamos a ver que pasa
+summary: Artículo publicado en "La Voz de Alcalá"
 draft: false
 featured: false
 categories:
