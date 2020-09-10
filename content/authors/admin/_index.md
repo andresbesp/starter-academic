@@ -26,9 +26,6 @@ social:
     icon: globe
 education:
   courses:
-    - course: Doctorando en Ciencias Sociales
-      institution: Universidad Pablo de Olavide
-      year: 2018-actualidad
     - course: Máster Universitario en Sociedad, Administración y Política
       institution: Universidad Pablo de Olavide
       year: 2016-2017
@@ -44,4 +41,4 @@ user_groups:
 ---
 Soy graduado en Ciencias Políticas y de la Administración por la Universidad Pablo de Olavide (2015). Máster en Liderazgo y Comunicación por la Universidad de Málaga (2016) y Máster Universitario en Sociedad, Administración y Política por la Universidad Pablo de Olavide (2017). Investigador en el Grupo Democracias y Autonomías: Sociedad y Política.
 
-Actualmente, becario de investigación en el Centro de Estudios del Instituto Nacional de Administración Pública.
+Actualmente, becario de investigación en el Centro de Estudios del Instituto Nacional de Administración Pública y doctorando en Ciencias Sociales.
