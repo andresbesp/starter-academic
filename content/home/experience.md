@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Instituto Nacional de Administración Pública"
   company_url = "https://www.inap.es/"
   location = "Madrid"
-  date_start = "Sep 2019"
-  date_end = """
+  date_start = ""
+  date_end = ""
   description = ""
   Responsabilidades:
   
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "Universidad Pablo de Olavide"
   company_url = "https://www.upo.es/investiga/dasp/es/inicio/"
   location = "Sevilla"
-  date_start = "Jan 2018"
-  date_end = "Sep 2019"
+  date_start = ""
+  date_end = ""
   description = ""
   Responsabilidades:
   
