@@ -2,8 +2,7 @@
 title: Andrés Benítez
 role: Politólogo e investigador
 avatar_filename: avatar.jpg
-organizations:
-  - name: INAP
+organizations: []
 superuser: true
 authors:
   - admin
