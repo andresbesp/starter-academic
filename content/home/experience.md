@@ -38,12 +38,11 @@ date_format = "Jan 2006"
   company_url = "https://www.upo.es/investiga/dasp/es/inicio/"
   location = "Sevilla"
   date_start = "2018-01-01"
-  date_end = "2019-09-01"
+  date_end = ""
   description = ""
   Responsabilidades:
   
   * Investigador predoctoral en Grupo “Democracia y Autonomías: Sociedad y Política”
   * Miembro del equipo de trabajo en el proyecto “Ciudadanía y Parlamentarios en tiempos de Crisis”
   * Colaborador en “Horizonte 2019”
- 
 +++
