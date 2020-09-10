@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Formación"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,55 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Centro de Estudios Andaluces"
+  organization_url = "https://www.centrodeestudiosandaluces.es/"
+  title = "Técnicas de Análisis Multivariante con Stata"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  certificate_url = ""
+  date_start = "2019-05-01"
+  date_end = "2019-05-01"
   description = ""
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Centro de Estudios Andaluces"
+  organization_url = "https://www.centrodeestudiosandaluces.es/"
+  title = "Análisis sociológico del discurso"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2018-05-23"
+  date_end = "2018-05-24"
+  description = ""  
+
+[[item]]
+  organization = "Universidad Pablo de Olavide"
+  organization_url = "https://www.upo.es"
+  title = "Certificado en Estadística para investigadores con SPSS"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-01-01"
+  date_end = "2018-02-01"
   description = ""
+  
+[[item]]
+  organization = "Universidad Internacional Menéndez Pelayo y Centro de Investigaciones Sociológicas"
+  organization_url = "https://www.cis.es"
+  title = "Tendencias políticas y electorales"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-07-15"
+  date_end = "2019-07-19"
+  description = ""
+  
+[[item]]
+  organization = "Universidad Pablo de Olaivde"
+  organization_url = "https://www.upo.es/"
+  title = "Análisis de género en la investigación científica"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-11-08"
+  date_end = "2019-01-08"
+  description = ""
+
++++
 
 +++
