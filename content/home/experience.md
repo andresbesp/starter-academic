@@ -45,4 +45,5 @@ date_format = "Jan 2006"
   * Investigador predoctoral en Grupo “Democracia y Autonomías: Sociedad y Política”
   * Miembro del equipo de trabajo en el proyecto “Ciudadanía y Parlamentarios en tiempos de Crisis”
   * Colaborador en “Horizonte 2019”
+  """
 +++
