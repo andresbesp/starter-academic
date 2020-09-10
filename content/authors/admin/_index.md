@@ -9,7 +9,7 @@ authors:
   - admin
 bio: ""
 interests:
-  - Élites políticas
+  - Análisis de datos
   - Comunicación política
   - Administración pública
 social:
@@ -33,6 +33,9 @@ education:
     - course: Máster Universitario en Sociedad, Administración y Política
       institution: Universidad Pablo de Olavide
       year: 2016-2017
+    - course: Máster en Liderazgo y Comunicación
+      institution: Universidad de Málaga
+      year: ""
     - course: Grado en Ciencias Políticas y de la Administración
       institution: Universidad Pablo de Olavide
       year: 2011-2015
