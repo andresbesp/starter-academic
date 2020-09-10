@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.inap.es/"
   location = "Madrid"
   date_start = "2019-09-01"
-  date_end = """
+  date_end = 
   description = ""
   Responsabilidades
   
