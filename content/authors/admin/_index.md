@@ -28,13 +28,13 @@ education:
   courses:
     - course: Máster Universitario en Sociedad, Administración y Política
       institution: Universidad Pablo de Olavide
-      year: 2016-2017
+      year: 2017
     - course: Máster en Liderazgo y Comunicación
       institution: Universidad de Málaga
-      year: ""
+      year: "2016"
     - course: Grado en Ciencias Políticas y de la Administración
       institution: Universidad Pablo de Olavide
-      year: 2011-2015
+      year: 2015
 email: andresbenitezespinosa@gmail.com
 user_groups:
   - ""
