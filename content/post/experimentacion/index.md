@@ -1,9 +1,19 @@
 ---
+summary: Celebradas en la Universidad Pablo de Olavide
+draft: false
+author: Andrés Benítez
 title: "Participación en las I Jornadas de Experimentación: Sociología y Política"
-author: "Andrés Benítez"
 date: 2019-01-30
-categories: ["Congresos"]
-tags: ["Congresos", "Selección", "Democracia"]
+featured: false
+tags:
+  - Congresos
+  - Selección
+  - Democracia
+categories:
+  - Congresos
+image:
+  filename: featured.png
+  preview_only: false
 ---
 
 
