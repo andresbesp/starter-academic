@@ -6,7 +6,7 @@ summary: Porcentaje de menores de 18 y porcentaje de mayores de 65
 draft: false
 featured: true
 image:
-  filename: feaured.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: Porcentaje de menores de 18 y porcentaje de mayores de 65
