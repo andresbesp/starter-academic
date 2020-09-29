@@ -7,7 +7,7 @@ draft: false
 featured: false
 image:
   filename: featured.jpg
-  focal_point: ""
+  focal_point: CENTER
   preview_only: false
   caption: Porcentaje de menores de 18 y porcentaje de mayores de 65
 ---
