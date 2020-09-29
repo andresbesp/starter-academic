@@ -1,7 +1,8 @@
 ---
-title: Edad barrios en Alcalá de Guadaíra
+title: Edad por barrios en Alcalá de Guadaíra
 subtitle: ""
 date: 2020-09-29T11:26:55.711Z
+summary: Porcentaje de menores de 18 y porcentaje de mayores de 65
 draft: false
 featured: true
 image:
