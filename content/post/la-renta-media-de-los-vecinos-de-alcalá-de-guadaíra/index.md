@@ -16,8 +16,6 @@ image:
 ---
 Puedes acceder mediante los siguientes enlaces:
 
-Mapa:
-https://andresbesp.carto.com/builder/4a06fb9e-e7ed-4137-bf6c-07cb4e4382b8/embed
+**\- [Mapa](https://andresbesp.carto.com/builder/c59eb0a6-2ca7-4868-810d-812cb2345bf7/embed)**
 
-Artículo completo:
-https://drive.google.com/file/d/1H0ogNfFOpoyp8orYdQE70ydS-vZcMcXI/view?usp=sharing
+**\- [Artículo completo](https://drive.google.com/file/d/1H0ogNfFOpoyp8orYdQE70ydS-vZcMcXI/view?usp=sharing)**
