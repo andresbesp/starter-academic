@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Centro de Estudios Andaluces"
   organization_url = "https://www.centrodeestudiosandaluces.es/"
+  title = "Curso 'Profundizando en la utilización del software NVivo para el análisis de los Grupos de Discusión, Grupos Focales, Cuestionarios abiertos y Redes Sociales'"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-10-15"
+  date_end = "2020-10-30"
+  description = ""
+
+[[item]]
+  organization = "Centro de Estudios Andaluces"
+  organization_url = "https://www.centrodeestudiosandaluces.es/"
   title = "Técnicas de Análisis Multivariante con Stata"
   url = ""
   certificate_url = ""
