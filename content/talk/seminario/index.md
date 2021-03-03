@@ -1,5 +1,5 @@
 ---
-abstract: Presentación del proyecto de tesis doctoral en el XV Seminario de Doctorado de la AECPA. 
+abstract: Proyecto de tesis doctoral en el XV Seminario de Doctorado de la AECPA. 
 all_day: true
 authors: [Andrés Benítez]
 date: "2018-05-31"
