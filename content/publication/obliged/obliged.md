@@ -26,13 +26,13 @@ doi: ""
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: Politicians in Hard Times - Spanish and South European MPs Facing Citizens after the Great Recession
+publication: 
 publication_short: 
 
 abstract: This chapter analyses the way in which Spanish MPs conceive their representative role following the breakdown of the party system and the emergence of two national parties with new social and political demands (Podemos and Ciudadanos). Street politics entered institutional (and parliamentary) politics, which implied substantial change for the traditional parties that were obliged to adapt by responding to frustrated voters.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Book Chapter in "Politicians in Hard Times: Spanish and South European MPs Facing Citizens after the Great Recession"
 
 tags: []
 
