@@ -16,15 +16,15 @@
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  # count: 0
   # Filter on criteria
-  filters:
+  # filters:
     author: ""
     category: ""
     publication_type: ""
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  # order: desc
 
 # design:
   # Choose a view for the listings:
@@ -32,5 +32,5 @@
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  # view: 4
 ---
