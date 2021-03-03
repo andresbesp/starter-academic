@@ -6,8 +6,8 @@ subtitle: 'Book Chapter in "Politicians in Hard Times: Spanish and South
 date: 2021-03-03T12:11:34.584Z
 draft: false
 featured: true
-authors: Fabiola Mota % Andrés Benítez
-external_link: https://www.palgrave.com/gp/book/9783030702410
+authors: Fabiola Mota & Andrés Benítez
+external_link: 
 links:
   - url: https://www.palgrave.com/gp/book/9783030702410
 image:
