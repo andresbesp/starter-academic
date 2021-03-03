@@ -1,4 +1,3 @@
----
 title: "Obliged to respond? MP’s modes of political representation in times of political renewal"
 
 # Authors
