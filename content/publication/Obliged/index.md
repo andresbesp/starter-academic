@@ -6,7 +6,7 @@ title: "Obliged to respond? MP’s modes of political representation in times of
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Fabiola Mota
-- Admin
+- admin
 
 # Author notes (optional)
 # author_notes:
@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://media.springernature.com/w153/springer-static/cover/book/9783030702427.jpg)'
+  caption: ""
   focal_point: ""
   preview_only: false
 
@@ -73,7 +73,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#   slides: example
 ---
 
 {{% callout note %}}
