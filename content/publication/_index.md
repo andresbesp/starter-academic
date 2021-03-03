@@ -1,5 +1,6 @@
 ---
-title: Publicaciones
+title: Publications
+cms_exclude: true
 
 # View.
 #   1 = List
@@ -9,7 +10,7 @@ title: Publicaciones
 view: 4
 
 # Optional header image (relative to `static/media/` folder).
-header: 
+header:
   caption: ""
   image: ""
 ---
