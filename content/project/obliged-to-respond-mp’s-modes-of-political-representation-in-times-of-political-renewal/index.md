@@ -1,12 +1,12 @@
 ---
 title: Obliged to respond MP’s modes of political representation in times of
-  political renewal
+  political renewal (2021)
 subtitle: 'Book Chapter in "Politicians in Hard Times: Spanish and South
   European MPs Facing Citizens after the Great Recession" '
 date: 2021-03-03T12:11:34.584Z
 draft: false
 featured: true
-authors: []
+authors: Fabiola Mota % Andrés Benítez
 external_link: https://www.palgrave.com/gp/book/9783030702410
 links:
   - url: https://www.palgrave.com/gp/book/9783030702410
