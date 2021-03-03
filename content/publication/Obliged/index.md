@@ -37,7 +37,7 @@ abstract: This chapter analyses the way in which Spanish MPs conceive their repr
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
