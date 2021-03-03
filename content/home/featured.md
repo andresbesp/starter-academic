@@ -1,4 +1,4 @@
-`featured = true` in their front matter.
+featured = true in their front matter.
 
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
