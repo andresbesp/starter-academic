@@ -59,13 +59,13 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = "Universidad Internacional Menéndez Pelayo y Centro de Investigaciones Sociológicas"
-  organization_url = "https://www.cis.es"
-  title = "Tendencias políticas y electorales"
+  organization = "Universidad Nacional de Educación a Distancia"
+  organization_url = "https://www.uned.es/universidad/inicio.html"
+  title = "Experto en Régimen Jurídico de los Partidos Políticos"
   url = ""
   certificate_url = ""
-  date_start = "2019-07-15"
-  date_end = "2019-07-19"
+  date_start = "2021-01-01"
+  date_end = ""
   description = ""
   
 [[item]]
