@@ -40,9 +40,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-name: Link
-url: 'https://www.palgrave.com/gp/book/9783030702410'
+# links:
+# name: Link
+# url: 
 
 url_pdf: ''
 url_code: ''
