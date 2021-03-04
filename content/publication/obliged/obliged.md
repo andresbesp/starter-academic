@@ -29,7 +29,7 @@ publication_types: ["6"]
 publication: 
 publication_short: 
 
-abstract: This chapter analyses the way in which Spanish MPs conceive their representative role following the breakdown of the party system and the emergence of two national parties with new social and political demands (Podemos and Ciudadanos). Street politics entered institutional (and parliamentary) politics, which implied substantial change for the traditional parties that were obliged to adapt by responding to frustrated voters. Enlace al libro: https://www.palgrave.com/gp/book/9783030702410
+abstract: This chapter analyses the way in which Spanish MPs conceive their representative role following the breakdown of the party system and the emergence of two national parties with new social and political demands (Podemos and Ciudadanos). Street politics entered institutional (and parliamentary) politics, which implied substantial change for the traditional parties that were obliged to adapt by responding to frustrated voters. 
 
 # Summary. An optional shortened abstract.
 summary: Chapter Book in "Politicians in Hard Times. Spanish and South European MPs Facing Citizens after the Great Recession" (Eds. Xavier Coller & Leonardo Sánchez-Ferrer)
