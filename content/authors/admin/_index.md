@@ -8,9 +8,9 @@ authors:
   - admin
 bio: ""
 interests:
-  - Análisis de datos
+  - Élites políticas
   - Comunicación política
-  - Administración pública
+  - Análisis de datos
 social:
   - icon: envelope
     icon_pack: fas
