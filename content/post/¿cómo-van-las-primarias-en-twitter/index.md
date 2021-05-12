@@ -1,7 +1,9 @@
 ---
 title: "¿Cómo van las primarias en Twitter? "
-subtitle: Análisis de redes de las candidaturas de Susana Díaz y Juan Espadas
+subtitle: ""
 date: 2021-05-12T09:03:57.280Z
+summary: Análisis de redes de las candidaturas de Susana Díaz y Juan Espadas a
+  las primarias del PSOE-A
 draft: false
 featured: false
 image:
