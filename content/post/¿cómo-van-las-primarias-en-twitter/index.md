@@ -7,7 +7,7 @@ summary: Análisis de redes de las candidaturas de Susana Díaz y Juan Espadas a
 draft: false
 featured: false
 image:
-  filename: count.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
