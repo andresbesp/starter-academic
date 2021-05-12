@@ -1,6 +1,7 @@
 ---
 title: "¿Cómo van las primarias en Twitter? "
-subtitle: ""
+subtitle: Análisis de redes de las candidaturas de Susana Díaz y Juan Espadas a
+  las primarias del PSOE-A
 date: 2021-05-12T09:03:57.280Z
 summary: Análisis de redes de las candidaturas de Susana Díaz y Juan Espadas a
   las primarias del PSOE-A
@@ -9,7 +10,7 @@ featured: false
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 El pasado 6 de mayo, la Secretaria General del PSOE-A convocó el proceso de primarias para designar al candidato o candidata a la Junta de Andalucía para las próximas elecciones. Díaz apeló a la "libertad de los militantes" para pedir un proceso con garantías, donde la máxima es "un militante, un voto". En la misma rueda de prensa, Susana Díaz anunció su intención de concurrir a este proceso. Unos días más tarde, el 9 de mayo, Juan Espadas convocó un acto en Granada donde presentó su candidatura. Un primer análisis de las reacciones en Twitter a las cuentas de los candidatos nos dejan las siguientes imágenes.
 
