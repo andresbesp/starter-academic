@@ -7,9 +7,9 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
-title: En medios
+title: Publicaciones
 subtitle: ""
 
 content:
@@ -24,13 +24,13 @@ content:
     publication_type: ""
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
-    order: desc
+  order: desc
 
- design:
+design:
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 1
+  view: 3
 ---
