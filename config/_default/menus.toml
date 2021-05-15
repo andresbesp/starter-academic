@@ -18,10 +18,10 @@ name = "Publicaciones"
 url = "#publications"
 weight = 40
 
-[[main]]
-name = "En medios"
-url = "#featured"
-weight = 50
+#[[main]]
+#name = "En medios"
+#url = "#featured"
+#weight = 50
 
 [[main]]
   name = "Congresos"
