@@ -15,6 +15,11 @@
 
 [[main]]
 name = "Publicaciones"
+url = "#publications"
+weight = 40
+
+[[main]]
+name = "En medios"
 url = "#featured"
 weight = 40
 
