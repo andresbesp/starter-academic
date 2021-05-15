@@ -7,9 +7,9 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
-title: Publicaciones
+title: En medios
 subtitle: ""
 
 content:
