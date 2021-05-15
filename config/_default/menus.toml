@@ -21,7 +21,7 @@ weight = 40
 [[main]]
 name = "En medios"
 url = "#featured"
-weight = 40
+weight = 50
 
 [[main]]
   name = "Congresos"
