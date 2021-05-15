@@ -4,12 +4,12 @@
 # widget: pages
 
 # This file represents a page section.
-# headless: true
+headless: true
 
 # Order that this section appears on the page.
-# weight: 100
+weight: 40
 
-# title: Publicaciones
+title: Publicaciones
 # subtitle: ''
 
 # content:
@@ -34,6 +34,6 @@
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
- # view: 4
+ view: 4
 ---
 
