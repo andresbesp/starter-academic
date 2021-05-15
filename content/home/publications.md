@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-# widget: pages
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -10,17 +10,17 @@ headless: true
 weight: 40
 
 title: Publicaciones
-# subtitle: ''
+subtitle: ''
 
-# content:
+content:
   # Page type to display. E.g. post, talk, publication...
- # page_type: publication
+  page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
-#  count: 5
+  count: 5
   # Choose how many pages you would like to offset by
 #  offset: 0
   # Page order: descending (desc) or ascending (asc) date.
-#  order: desc
+  order: desc
   # Filter on criteria
  # filters:
   #  tag: ''
@@ -28,7 +28,7 @@ title: Publicaciones
    # publication_type: ''
    # author: ''
    # exclude_featured: true
-# design:
+ design:
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
