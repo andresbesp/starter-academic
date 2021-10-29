@@ -19,10 +19,10 @@
   # count: 0
   # Filter on criteria
   # filters:
-    # author: ""
-    # category: ""
-    # publication_type: ""
-    # tag: ""
+  #  # author: ""
+  #  # category: ""
+  #  # publication_type: ""
+  #  # tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   # order: desc
 
