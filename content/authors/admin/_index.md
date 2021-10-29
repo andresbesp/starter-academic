@@ -39,6 +39,4 @@ email: andresbenitezespinosa@gmail.com
 user_groups:
   - ""
 ---
-Soy graduado en Ciencias Políticas y de la Administración por la Universidad Pablo de Olavide (2015). Máster en Liderazgo y Comunicación por la Universidad de Málaga (2016) y Máster Universitario en Sociedad, Administración y Política por la Universidad Pablo de Olavide (2017). Investigador en el Grupo Democracias y Autonomías: Sociedad y Política.
-
-Actualmente, becario de investigación en el Centro de Estudios del Instituto Nacional de Administración Pública y doctorando en Ciencias Sociales.
+Soy graduado en Ciencias Políticas y de la Administración por la Universidad Pablo de Olavide (2015). Máster en Liderazgo y Comunicación por la Universidad de Málaga (2016) y Máster Universitario en Sociedad, Administración y Política por la Universidad Pablo de Olavide (2017). Actualmente, contratado predoctoral FPI en la UNED
