@@ -14,7 +14,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:andresbenitezespinosa@gmail.com
+    link: mailto:andresbenitez@poli.uned.es
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/andresbesp
