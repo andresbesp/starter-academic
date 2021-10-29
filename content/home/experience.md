@@ -18,12 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Contratado predoctoral FPI"
+  company = "Universidad Nacional de Educación a Distancia"
+  company_url = "https://consenso.uned.es/"
+  location = "Madrid"
+  date_start = "2021-09-01"
+  date_end = ""
+  description = """
+  Responsabilidades:
+  
+  * Colaborador en el proyecto de investigación: "La construcción social del consenso en entornos políticos multipartidistas"
+  """
+[[experience]]
   title = "Técnico de Investigación en Administración Pública"
   company = "Instituto Nacional de Administración Pública"
   company_url = "https://www.inap.es/"
   location = "Madrid"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2021-08-31"
   description = """
   Responsabilidades:
   
@@ -42,7 +54,7 @@ date_format = "Jan 2006"
   description = """
   Responsabilidades:
   
-  * Investigador predoctoral en Grupo “Democracia y Autonomías: Sociedad y Política”
+  * Investigador en Grupo “Democracia y Autonomías: Sociedad y Política”
   * Miembro del equipo de trabajo en el proyecto “Ciudadanía y Parlamentarios en tiempos de Crisis”
   * Colaborador en “Horizonte 2019”
   """
