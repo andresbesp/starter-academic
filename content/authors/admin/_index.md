@@ -9,8 +9,8 @@ authors:
 bio: ""
 interests:
   - Élites políticas
+  - Comportamiento electoral
   - Comunicación política
-  - Análisis de datos
 social:
   - icon: envelope
     icon_pack: fas
