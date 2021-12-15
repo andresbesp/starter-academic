@@ -4,9 +4,9 @@ subtitle: ""
 date: 2021-12-15T11:14:10.943Z
 summary: Informe final del Proyecto CIUPARCRI
 draft: false
-featured: false
+featured: true
 image:
-  filename: 14394465115_63a2ff6bfa_o.jpg
+  filename: featured.jpg.jpg
   focal_point: Smart
   preview_only: true
 ---
