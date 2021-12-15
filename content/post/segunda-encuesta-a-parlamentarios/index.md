@@ -6,9 +6,9 @@ summary: Informe final del Proyecto CIUPARCRI
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: 14394465115_63a2ff6bfa_o.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 Consulta el informe final del Proyecto **["Ciudadanía y Parlamentarios en tiempos de crisis"](https://www.upo.es/investiga/ptyp/wp-content/uploads/2019/04/CIUPARCRI-informe-Final.pdf)**
 
