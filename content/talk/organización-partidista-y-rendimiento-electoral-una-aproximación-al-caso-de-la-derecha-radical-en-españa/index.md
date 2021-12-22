@@ -22,8 +22,9 @@ publishDate: 2021-12-22T11:55:23.445Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg.jpg
   focal_point: Smart
   preview_only: false
+  alt_text: Premio a mejor comunicación de autores/as no doctores/as
 ---
 **Premio a mejor comunicación de autores/as no doctores/as**
