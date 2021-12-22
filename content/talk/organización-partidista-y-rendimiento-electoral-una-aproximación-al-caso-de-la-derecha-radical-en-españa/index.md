@@ -7,6 +7,7 @@ abstract: >-
 
 
 
+
   En las últimas décadas, el creciente protagonismo de la familia de partidos de derecha radical en Europa ha recabado una considerable atención académica. En este sentido, el principal objeto de este campo de estudio ha sido arrojar luz acerca de los factores que pueden explicar el éxito de este tipo de partidos. La literatura ha distinguido entre las llamadas explicaciones de la demanda (centradas en las actitudes, orientaciones de ciudadanía y electorado) y las explicaciones de la oferta (que dan cuenta de la ideología, estrategia, liderazgo e infraestructura organizativa de los propios partidos). Tradicionalmente, los factores de la demanda han constituido el prisma hegemónico en la materia, de tal forma que el auge de la derecha radical ha sido interpretado principalmente como resultado de la deprivación económica, las orientaciones antiinmigración, el voto de protesta o la alienación política. No obstante, de forma más reciente se han subrayado varios déficits de este tipo de explicaciones: en particular, su incapacidad para dar cuenta del desigual rendimiento electoral de estos partidos en perspectiva temporal y geográfica. En esta línea, se ha apuntado a la necesidad de llevar a cabo una suerte de “giro internalista” en la agenda de estudio de la derecha radical, de forma que los factores de la oferta se integren de forma sistemática y exhaustiva en los análisis empíricos.
 
 
