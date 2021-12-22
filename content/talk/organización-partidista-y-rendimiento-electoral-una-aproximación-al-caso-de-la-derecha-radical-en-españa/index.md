@@ -42,6 +42,8 @@ image:
   filename: featured.jpg.jpg
   focal_point: Smart
   preview_only: false
-  alt_text: Premio a mejor comunicación de autores/as no doctores/as
-  caption: Premio a mejor comunicación de autores/as no doctores/as
+  alt_text: "Con Pablo Ortiz y Alba Aragón. Premio a mejor comunicación de
+    autores/as no doctores/as. "
+  caption: "Con Pablo Ortiz y Alba Aragón. Premio a mejor comunicación de
+    autores/as no doctores/as. "
 ---
