@@ -30,7 +30,7 @@ abstract: >-
 location: AECPA
 date: 2021-12-22T11:55:23.424Z
 date_end: 2021-07-22T10:58:02.768Z
-all_day: false
+all_day: true
 event: XV Congreso AECPA
 event_url: https://www.aecpa.es/es-es/organizacion-partidista-y-rendimiento-electoral-una-aproximacion-al/congress-papers/3249/
 publishDate: 2021-12-22T11:55:23.445Z
