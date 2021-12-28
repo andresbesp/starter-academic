@@ -24,9 +24,7 @@ social:
   - link: https://public.tableau.com/profile/andr.s.ben.tez#!/
     icon_pack: fas
     icon: globe
-   - link: https://scholar.google.es/citations?user=pheECkwAAAAJ&hl=es
-    icon_pack: ai
-    icon: google-scholar
+
 education:
   courses:
     - course: Máster Universitario en Sociedad, Administración y Política
