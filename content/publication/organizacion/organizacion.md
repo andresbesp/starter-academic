@@ -37,7 +37,7 @@ summary: Revista de Investigaciones Políticas y Sociológicas
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -48,7 +48,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://revistas.usc.gal/index.php/rips/article/view/7840/11260' 
+url_project: '' 
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -65,7 +65,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
+# projects:
 
 
 # Slides (optional).
