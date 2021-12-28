@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 
 date: "2021-12-01T00:00:00Z"
-doi: "10.15304/rips.20.2.7840"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
