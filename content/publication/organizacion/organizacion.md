@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 
 date: "2021-12-01T00:00:00Z"
-doi: "https://doi.org/10.15304/rips.20.2.7840"
+doi: "10.15304/rips.20.2.7840"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -66,7 +66,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- CIUPARCRI
+
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
