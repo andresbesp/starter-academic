@@ -24,6 +24,9 @@ social:
   - link: https://public.tableau.com/profile/andr.s.ben.tez#!/
     icon_pack: fas
     icon: globe
+  - link: https://twitter.com/andresbesp
+    icon_pack: ai
+    icon: google-scholar
 
 education:
   courses:
