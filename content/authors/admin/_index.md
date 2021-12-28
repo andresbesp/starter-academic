@@ -1,7 +1,7 @@
 ---
 title: Andrés Benítez
 role: Politólogo e investigador
-avatar_filename: avatar.jpg
+avatar_filename: avatar.jpeg
 organizations: []
 superuser: true
 authors:
