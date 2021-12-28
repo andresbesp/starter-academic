@@ -1,5 +1,5 @@
 ---
-title: "Obliged to respond? MP’s modes of political representation in times of political renewal"
+title: "Organización partidista y rendimiento electoral. Una aproximación al caso de la derecha radical en España"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
