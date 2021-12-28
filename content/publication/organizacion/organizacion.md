@@ -1,20 +1,19 @@
 ---
-title: "Organización partidista y rendimiento electoral. Una aproximación al caso de la derecha radical en España"
+title: "Obliged to respond? MP’s modes of political representation in times of political renewal"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Pablo Ortiz
+- Fabiola Mota
 - Andrés Benítez
-- Alba María Aragón
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-12-01T00:00:00Z"
+date: "2021-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,20 +23,21 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
 publication: 
 publication_short: 
 
-abstract: En las últimas décadas, el creciente protagonismo de la familia de partidos de derecha radical en Europa ha recabado una considerable atención académica, siendo uno de los principales objetivos el estudiar su rendimiento electoral. En este sentido, la literatura ha otorgado un papel preeminente a los factores de la demanda; de forma paralela, los factores de la oferta -que son aquellos que hacen referencia a las características de los propios partidos- han recibido mucha menos atención. No obstante, existen motivos para pensar que, dadas las limitaciones de las explicaciones centradas en la demanda, la agenda de investigación sobre la derecha radical necesita de una suerte de giro internalista. O lo que es lo mismo: una mirada más rigurosa y sistematizada sobre los factores de la oferta (y en especial, sobre aquellos relacionados con la organización partidista).
+abstract: This chapter analyses the way in which Spanish MPs conceive their representative role following the breakdown of the party system and the emergence of two national parties with new social and political demands (Podemos and Ciudadanos). Street politics entered institutional (and parliamentary) politics, which implied substantial change for the traditional parties that were obliged to adapt by responding to frustrated voters. 
+
 # Summary. An optional shortened abstract.
-summary: Revista de Investigaciones Políticas y Sociológicas
+summary: Chapter Book in "Politicians in Hard Times. Spanish and South European MPs Facing Citizens after the Great Recession" (Eds. Xavier Coller & Leonardo Sánchez-Ferrer)
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -48,14 +48,14 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: '' 
+url_project: 'https://www.palgrave.com/gp/book/9783030702410'
 url_slides: ''
 url_source: ''
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image: 
+image: 
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
@@ -65,8 +65,8 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects:
-
+projects:
+- CIUPARCRI
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
