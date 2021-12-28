@@ -25,8 +25,8 @@ social:
     icon_pack: fas
     icon: globe
   - link: https://scholar.google.es/citations?user=pheECkwAAAAJ&hl=es
-    icon_pack: fas
-    icon: comments
+    icon_pack: ai
+    icon: google-scholar
 
 education:
   courses:
