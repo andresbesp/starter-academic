@@ -5,8 +5,9 @@ title: "Organización partidista y rendimiento electoral. Una aproximación al c
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Fabiola Mota
+- Pablo Ortiz
 - Andrés Benítez
+- Alba María Aragón
 
 # Author notes (optional)
 # author_notes:
