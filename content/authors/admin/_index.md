@@ -25,8 +25,8 @@ social:
     icon_pack: fas
     icon: globe
   - link: https://twitter.com/andresbesp
-    icon_pack: ai
-    icon: google-scholar
+    icon_pack: fas
+    icon: comments
 
 education:
   courses:
