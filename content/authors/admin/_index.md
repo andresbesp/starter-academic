@@ -12,21 +12,18 @@ interests:
   - Comportamiento electoral
   - Comunicación política
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:andresbenitez@poli.uned.es
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/andresbesp
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/benitezespinosa/
   - link: https://public.tableau.com/profile/andr.s.ben.tez#!/
     icon_pack: fas
     icon: globe
   - link: https://scholar.google.es/citations?user=pheECkwAAAAJ&hl=es
     icon_pack: ai
     icon: google-scholar
+  - link: https://orcid.org/0000-0002-2213-868X
+    icon_pack: ai
+    icon: orcid
 
 education:
   courses:
