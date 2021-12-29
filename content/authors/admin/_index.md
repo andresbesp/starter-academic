@@ -18,12 +18,13 @@ social:
   - link: https://public.tableau.com/profile/andr.s.ben.tez#!/
     icon_pack: fas
     icon: globe
-  - link: https://scholar.google.es/citations?user=pheECkwAAAAJ&hl=es
-    icon_pack: ai
-    icon: google-scholar
   - link: https://orcid.org/0000-0002-2213-868X
     icon_pack: ai
     icon: orcid
+  - link: https://scholar.google.es/citations?user=pheECkwAAAAJ&hl=es
+    icon_pack: ai
+    icon: google-scholar
+
 
 education:
   courses:
