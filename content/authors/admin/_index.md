@@ -15,6 +15,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/andresbesp
+  - link: https://www.linkedin.com/in/benitezespinosa/
+    icon_pack: fab
+    icon: linkedin
   - link: https://public.tableau.com/profile/andr.s.ben.tez#!/
     icon_pack: fas
     icon: globe
