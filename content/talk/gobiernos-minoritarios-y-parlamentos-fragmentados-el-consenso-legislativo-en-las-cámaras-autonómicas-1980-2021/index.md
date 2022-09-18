@@ -23,7 +23,7 @@ date_end: 2022-09-08T22:00:00.000Z
 all_day: true
 event: XVI Congreso AECPA
 event_url: https://www.aecpa.es/es-es/gobiernos-minoritarios-y-parlamentos-fragmentados-el-consenso-legisla/congress-papers/3624/
-publishDate: 2022-09-09T17:27:44.286Z
+publishDate: 2022-09-18T17:46:24.673Z
 draft: true
 featured: true
 image:
