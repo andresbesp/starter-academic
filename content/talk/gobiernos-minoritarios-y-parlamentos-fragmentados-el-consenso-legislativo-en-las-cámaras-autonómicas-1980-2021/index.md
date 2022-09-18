@@ -27,6 +27,7 @@ event_url: https://www.aecpa.es/es-es/gobiernos-minoritarios-y-parlamentos-fragm
 publishDate: 2022-09-18T17:46:24.673Z
 draft: false
 featured: true
+summary: Comunicación en el XVI Congreso de la AECPA
 authors: [Andrés Benítez]
 tags:
   - Consenso
@@ -39,5 +40,5 @@ image:
   focal_point: Smart
   preview_only: false
   caption: ""
-  alt_text: "Comunicación en el XVI Congreso de la AECPA"
+  alt_text: ""
 ---
