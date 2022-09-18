@@ -31,5 +31,5 @@ image:
   focal_point: Smart
   preview_only: false
   caption: ""
-  alt_text: Comunicación en XVI Congreso AECPA
+  alt_text: Comunicación en el XVI Congreso AECPA
 ---
