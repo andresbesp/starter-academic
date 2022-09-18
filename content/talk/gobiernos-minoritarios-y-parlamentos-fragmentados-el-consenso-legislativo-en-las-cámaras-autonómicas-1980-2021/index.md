@@ -27,8 +27,8 @@ publishDate: 2022-09-09T17:27:44.286Z
 draft: true
 featured: true
 image:
-  filename: captura.png
+  filename: featured.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: Comunicación en XVI Congreso AECPA
 ---
