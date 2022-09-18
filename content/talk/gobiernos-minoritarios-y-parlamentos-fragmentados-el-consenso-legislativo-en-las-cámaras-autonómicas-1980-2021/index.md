@@ -26,6 +26,13 @@ event_url: https://www.aecpa.es/es-es/gobiernos-minoritarios-y-parlamentos-fragm
 publishDate: 2022-09-18T17:46:24.673Z
 draft: false
 featured: true
+authors: []
+tags:
+  - Consenso
+  - multipartidismo
+  - gobiernos
+  - coaliciones
+  - fragmentación
 image:
   filename: featured.png
   focal_point: Smart
