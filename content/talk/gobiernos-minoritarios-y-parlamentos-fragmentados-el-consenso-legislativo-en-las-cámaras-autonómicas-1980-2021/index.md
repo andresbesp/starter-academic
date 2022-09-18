@@ -30,5 +30,6 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-  caption: Comunicación en XVI Congreso AECPA
+  caption: ""
+  alt_text: Comunicación en XVI Congreso AECPA
 ---
