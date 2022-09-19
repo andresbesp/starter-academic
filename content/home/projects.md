@@ -3,6 +3,8 @@
 widget: portfolio
 headless: true  # This file represents a page section.
 
+weight: 60
+
 # ... Put Your Section Options Here (title etc.) ...
 title: En medios
 subtitle: ''
