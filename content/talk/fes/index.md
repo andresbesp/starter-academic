@@ -7,11 +7,6 @@ date_end: "2019-07-06"
 event: XIII Congreso de Sociología de la FES
 event_url: http://www.congresofes.com/
 featured: true
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/andresbesp
 location: Valencia, España
 math: true
 summary: Participación en el Grupo de trabajo Sociología Política
