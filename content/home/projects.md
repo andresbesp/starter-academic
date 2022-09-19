@@ -10,7 +10,7 @@ title: En medios
 subtitle: ''
 
 content:
-  count : 2
+  
   # Choose which content to display in the widget
   filters:
     # Folders to display content from
@@ -26,7 +26,11 @@ content:
     kinds:
       - page
 #      - section
-
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 2
+  # Choose how many pages you would like to offset by
+  # Useful if you wish to show the first item in the Featured widget
+  offset: 0
   # Field to sort by, such as Date or Title
   sort_by: 'Date'
   sort_ascending: true
