@@ -7,11 +7,6 @@ date_end: "2019-06-22"
 event: 26th International Conference of Europeanists
 event_url: https://councilforeuropeanstudies.org/conferences/2019-conference-venue
 featured: true
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/andresbesp
 location: Madrid, España
 math: true
 summary: Submitted Panel 
