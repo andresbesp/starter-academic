@@ -29,6 +29,8 @@ content:
   # Field to sort by, such as Date or Title
   sort_by: 'Date'
   sort_ascending: true
+  
+  count: 2
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
