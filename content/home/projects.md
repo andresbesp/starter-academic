@@ -30,7 +30,8 @@ content:
   sort_by: 'Date'
   sort_ascending: true
   
-  count: 2
+  count : 5
+  offset : 0
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
