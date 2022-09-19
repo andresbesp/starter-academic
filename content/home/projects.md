@@ -3,7 +3,7 @@
 widget: portfolio
 headless: true  # This file represents a page section.
 
-weight: 60
+weight: 50
 
 # ... Put Your Section Options Here (title etc.) ...
 title: En medios
@@ -45,7 +45,7 @@ design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
   # Choose a listing view
-  view: 2
+  view: 3
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
