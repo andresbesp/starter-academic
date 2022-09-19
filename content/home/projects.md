@@ -43,7 +43,7 @@ design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
   # Choose a listing view
-  view: masonry
+  view: list
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
