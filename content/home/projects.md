@@ -10,7 +10,7 @@ title: En medios
 subtitle: ''
 
 content:
-  count : 5
+  count : 2
   # Choose which content to display in the widget
   filters:
     # Folders to display content from
