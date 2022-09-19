@@ -1,6 +1,6 @@
 ---
 title: Análisis elecciones andaluzas 19-J
-date: 2022-09-19T15:35:59.452Z
+date: 2022-06-26T15:35:59.452Z
 summary: E﻿ntrevista sobre los resultados electorales enandaluz.es
 draft: false
 featured: false
