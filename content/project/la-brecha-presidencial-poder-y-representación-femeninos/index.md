@@ -1,6 +1,7 @@
 ---
 title: "La brecha presidencial: poder y representación femeninos"
-date: 2022-09-19T13:10:55.670Z
+subtitle: Publicación en Agenda Pública
+date: 2022-06-16T13:10:55.670Z
 draft: false
 featured: false
 external_link: https://agendapublica.elpais.com/noticia/18050/brecha-presidencial-poder-representacion-femeninos
