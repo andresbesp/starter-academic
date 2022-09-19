@@ -10,6 +10,7 @@ title: En medios
 subtitle: ''
 
 content:
+  count : 5
   # Choose which content to display in the widget
   filters:
     # Folders to display content from
@@ -30,8 +31,7 @@ content:
   sort_by: 'Date'
   sort_ascending: true
   
-  count : 5
-  offset : 0
+  
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
