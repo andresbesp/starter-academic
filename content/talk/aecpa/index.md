@@ -15,7 +15,6 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/andresbesp
 location: Salamanca, España
 math: false
 projects:
