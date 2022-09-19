@@ -11,10 +11,6 @@ featured: true
 image:
   caption: 
   focal_point: Right
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
 location: Salamanca, España
 math: false
 projects:
