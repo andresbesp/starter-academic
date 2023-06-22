@@ -2,7 +2,7 @@
 title: Tercera encuesta a parlamentarios/as
 subtitle: Informe final del Proyecto CONSENSO
 date: 2023-06-22T16:35:11.056Z
-summary: "**Informe de resultados de la tercera encuesta a parlamentarios en España.**"
+summary: Informe de resultados de la tercera encuesta a parlamentarios en España.
 draft: false
 featured: true
 image:
