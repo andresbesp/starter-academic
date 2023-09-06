@@ -1,20 +1,20 @@
 ---
-title: "Obliged to respond? MP’s modes of political representation in times of political renewal"
+title: "Evolución del Perfil de los Políticos Andaluces en 40 años de Autonomía Regional (1982-2022)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Fabiola Mota
 - Andrés Benítez
+- Beatriz Carrasco
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-03-01T00:00:00Z"
-doi: "https://doi.org/10.1007/978-3-030-70242-7_7"
+date: "2023-08-01T00:00:00Z"
+doi: "https://doi.org/10.12795/anduli.2023.i24.05"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -29,10 +29,10 @@ publication_types: ["6"]
 publication: 
 publication_short: 
 
-abstract: This chapter analyses the way in which Spanish MPs conceive their representative role following the breakdown of the party system and the emergence of two national parties with new social and political demands (Podemos and Ciudadanos). Street politics entered institutional (and parliamentary) politics, which implied substantial change for the traditional parties that were obliged to adapt by responding to frustrated voters. 
+abstract: En este artículo se realiza una radiografía del perfil social de los representantes políticos andaluces. Se trata de dar una respuesta a cómo son y cuál ha sido la evolución del perfil sociodemográfico desde 1982 a 2022. La metodología aplica el análisis estadístico a la base de datos BAPOLDATA que incluye a todas las personas que han ocupado un escaño en el Congreso de los Diputados y en las 17 cámaras autonómicas desde la legislatura constituyente. También se realiza una comparación del perfil de aquellos parlamentarios/as que han ocupado un escaño en el Parlamento de Andalucía y entre quienes han poseído el acta de diputado en el Congreso de los Diputados por las circunscripciones andaluzas, mostrando que actualmente, el Parlamento de Andalucía está más envejecido, con un mayor nivel de estudios y con representación femenina en torno al 50%. En cuanto a las profesiones, han prácticamente desaparecido los trabajadores manuales y pasado a predominar los docentes y juristas.
 
 # Summary. An optional shortened abstract.
-summary: Chapter Book in "Politicians in Hard Times. Spanish and South European MPs Facing Citizens after the Great Recession" (Eds. Xavier Coller & Leonardo Sánchez-Ferrer)
+summary: Artículo publicado en Anduli
 
 tags: []
 
@@ -48,7 +48,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://www.palgrave.com/gp/book/9783030702410'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -66,7 +66,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- CIUPARCRI
+- BAPOLDATA
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
