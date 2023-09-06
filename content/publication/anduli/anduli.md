@@ -32,7 +32,7 @@ publication_short:
 abstract: En este artículo se realiza una radiografía del perfil social de los representantes políticos andaluces. Se trata de dar una respuesta a cómo son y cuál ha sido la evolución del perfil sociodemográfico desde 1982 a 2022. La metodología aplica el análisis estadístico a la base de datos BAPOLDATA que incluye a todas las personas que han ocupado un escaño en el Congreso de los Diputados y en las 17 cámaras autonómicas desde la legislatura constituyente. También se realiza una comparación del perfil de aquellos parlamentarios/as que han ocupado un escaño en el Parlamento de Andalucía y entre quienes han poseído el acta de diputado en el Congreso de los Diputados por las circunscripciones andaluzas, mostrando que actualmente, el Parlamento de Andalucía está más envejecido, con un mayor nivel de estudios y con representación femenina en torno al 50%. En cuanto a las profesiones, han prácticamente desaparecido los trabajadores manuales y pasado a predominar los docentes y juristas.
 
 # Summary. An optional shortened abstract.
-summary: Artículo publicado en Anduli
+summary: Revista Andaluza de Ciencias Sociales (ANDULI)
 
 tags: []
 
