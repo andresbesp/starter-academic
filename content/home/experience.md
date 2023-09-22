@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Contratado predoctoral FPI"
+  title = "Personal Docente e Investigador - Contratado predoctoral FPI"
   company = "Universidad Nacional de Educación a Distancia"
   company_url = "https://consenso.uned.es/"
   location = "Madrid"
