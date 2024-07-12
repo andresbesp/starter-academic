@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   * Colaborador en el proyecto de investigación: "La construcción social del consenso en entornos políticos multipartidistas"
   """
 [[experience]]
-  title = "Técnico de Investigación en Administración Pública"
+  title = "Técnico en Administración Pública"
   company = "Instituto Nacional de Administración Pública"
   company_url = "https://www.inap.es/"
   location = "Madrid"
