@@ -1,5 +1,5 @@
 ---
-title: "Evolución del Perfil de los Políticos Andaluces en 40 años de Autonomía Regional (1982-2022)"
+title: "Institutional Factors and Agreement in Lawmaking"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,14 +7,16 @@ title: "Evolución del Perfil de los Políticos Andaluces en 40 años de Autonom
 authors:
 - Andrés Benítez
 - Beatriz Carrasco
+- Antonio M. Jaime-Castillo
+- Carles Pamies
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2023-08-01T00:00:00Z"
-doi: "https://doi.org/10.12795/anduli.2023.i24.05"
+date: "2024-09-01T00:00:00Z"
+doi: "https://doi.org/10.1177/00027642241285014"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -29,10 +31,10 @@ publication_types: ["6"]
 publication: 
 publication_short: 
 
-abstract: En este artículo se realiza una radiografía del perfil social de los representantes políticos andaluces. Se trata de dar una respuesta a cómo son y cuál ha sido la evolución del perfil sociodemográfico desde 1982 a 2022. La metodología aplica el análisis estadístico a la base de datos BAPOLDATA que incluye a todas las personas que han ocupado un escaño en el Congreso de los Diputados y en las 17 cámaras autonómicas desde la legislatura constituyente. También se realiza una comparación del perfil de aquellos parlamentarios/as que han ocupado un escaño en el Parlamento de Andalucía y entre quienes han poseído el acta de diputado en el Congreso de los Diputados por las circunscripciones andaluzas, mostrando que actualmente, el Parlamento de Andalucía está más envejecido, con un mayor nivel de estudios y con representación femenina en torno al 50%. En cuanto a las profesiones, han prácticamente desaparecido los trabajadores manuales y pasado a predominar los docentes y juristas.
+abstract: Contemporary democracies are undergoing a period of rising levels of polarization and fragmentation. At the same time, the degree of conflict in several parliaments, particularly in Europe, has significantly increased. Despite this, we know very little about conflict and consensus-building in parliaments. In this article, we analyze the degree of agreement in lawmaking in Spanish national and regional parliaments from 1977 to 2023. Using models for panel data we find that agreement between parties is higher when the effective number of parties is also higher, and when the incumbent party does not have a majority in parliament. However, contrary to our expectations and previous scholarship, ideological polarization does not have a significant effect on agreement. Additionally, specific characteristics of the bills have proven to have an impact on the degree of agreement.
 
 # Summary. An optional shortened abstract.
-summary: Revista Andaluza de Ciencias Sociales (ANDULI)
+summary: American Behavioral Scientist (ABS)
 
 tags: []
 
@@ -66,7 +68,8 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- BAPOLDATA
+- BADELEY
+- BACONTEXTO
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
