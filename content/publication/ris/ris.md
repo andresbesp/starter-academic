@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2023-08-01T00:00:00Z"
+date: "2024-11-01T00:00:00Z"
 doi: "https://doi.org/10.3989/ris.2024.82.3.23.1258"
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,7 @@ publication_types: ["2"]
 publication: 
 publication_short: 
 
-abstract: En este artículo se realiza una radiografía del perfil social de los representantes políticos andaluces. Se trata de dar una respuesta a cómo son y cuál ha sido la evolución del perfil sociodemográfico desde 1982 a 2022. La metodología aplica el análisis estadístico a la base de datos BAPOLDATA que incluye a todas las personas que han ocupado un escaño en el Congreso de los Diputados y en las 17 cámaras autonómicas desde la legislatura constituyente. También se realiza una comparación del perfil de aquellos parlamentarios/as que han ocupado un escaño en el Parlamento de Andalucía y entre quienes han poseído el acta de diputado en el Congreso de los Diputados por las circunscripciones andaluzas, mostrando que actualmente, el Parlamento de Andalucía está más envejecido, con un mayor nivel de estudios y con representación femenina en torno al 50%. En cuanto a las profesiones, han prácticamente desaparecido los trabajadores manuales y pasado a predominar los docentes y juristas.
+abstract: La fragmentación y la polarización en el sistema parlamentario español se habían analizado hasta ahora con limitaciones temporales o territoriales. En este trabajo, se exponen los niveles de fragmentación y polarización ideológica en el Congreso de los Diputados y en las cámaras de las 17 comunidades autónomas desde 1979 a 2022. Los hallazgos permiten identificar qué cámaras están más fragmentadas, dónde ha habido más polarización y cómo han evolucionado a lo largo de las legislaturas estos dos rasgos definitorios de todo sistema de partidos. Los niveles de polarización se calculan a partir de las ubicaciones ideológicas de los partidos según las percepciones ciudadanas recogidas por el CIS. Los resultados muestran la pluralidad dentro del sistema parlamentario español, en que los niveles de fragmentación y polarización varían en función de varias casuísticas, destacándose la dimensión territorial como una de las más relevantes. Además, se muestra una correlación positiva, aunque débil, entre los parlamentos más fragmentados y polarizados.
 
 # Summary. An optional shortened abstract.
 summary: Revista Internacional de Sociología (RIS)
