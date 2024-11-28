@@ -1,12 +1,14 @@
 ---
-title: "Evolución del Perfil de los Políticos Andaluces en 40 años de Autonomía Regional (1982-2022)"
+title: "Fragmentación y polarización parlamentaria en España: la evolución en el Congreso y autonomías (1979-2022)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Pablo Domínguez
 - Andrés Benítez
 - Beatriz Carrasco
+- Carles Pamies
 
 # Author notes (optional)
 # author_notes:
@@ -14,7 +16,7 @@ authors:
 # - "Equal contribution"
 
 date: "2023-08-01T00:00:00Z"
-doi: "https://doi.org/10.12795/anduli.2023.i24.05"
+doi: "https://doi.org/10.3989/ris.2024.82.3.23.1258"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -32,7 +34,7 @@ publication_short:
 abstract: En este artículo se realiza una radiografía del perfil social de los representantes políticos andaluces. Se trata de dar una respuesta a cómo son y cuál ha sido la evolución del perfil sociodemográfico desde 1982 a 2022. La metodología aplica el análisis estadístico a la base de datos BAPOLDATA que incluye a todas las personas que han ocupado un escaño en el Congreso de los Diputados y en las 17 cámaras autonómicas desde la legislatura constituyente. También se realiza una comparación del perfil de aquellos parlamentarios/as que han ocupado un escaño en el Parlamento de Andalucía y entre quienes han poseído el acta de diputado en el Congreso de los Diputados por las circunscripciones andaluzas, mostrando que actualmente, el Parlamento de Andalucía está más envejecido, con un mayor nivel de estudios y con representación femenina en torno al 50%. En cuanto a las profesiones, han prácticamente desaparecido los trabajadores manuales y pasado a predominar los docentes y juristas.
 
 # Summary. An optional shortened abstract.
-summary: Revista Andaluza de Ciencias Sociales (ANDULI)
+summary: Revista Internacional de Sociología (RIS)
 
 tags: []
 
